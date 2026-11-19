@@ -58,8 +58,8 @@ BinDist's core is open source: [**bindist-terraform**](https://github.com/BinDis
 runs it on your own AWS or Scaleway account. You can also use the hosted service and let us run
 the infrastructure.
 
-Client libraries are available for **Go, JavaScript/TypeScript, Rust, Python, .NET, Delphi
-and Free Pascal**. Pick one from the repositories below, or see the
+Client libraries are available for **Go, JavaScript/TypeScript, Rust, Python, Delphi
+and others**. Pick one from the repositories below, or see the
 [SDK docs](https://docs.bindist.eu).
 
 Using another language? BinDist is a plain REST/JSON API with API-key authentication, so
