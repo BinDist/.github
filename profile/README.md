@@ -2,8 +2,8 @@
 
 ### Distribute software to your business customers
 
-Stop emailing builds and chasing expired share links. BinDist gives every customer their own
-API-keyed feed, so they get exactly the releases they've licensed and nothing else.
+Stop emailing builds. BinDist gives every customer their own API-keyed feed,
+so they get exactly the releases they've licensed and nothing else.
 Hosted in the EU 🇪🇺.
 
 [Website](https://www.bindist.eu) · [Documentation](https://docs.bindist.eu) · [Pricing](https://www.bindist.eu/pricing.html) · [Start free](https://www.bindist.eu/signup.html)
